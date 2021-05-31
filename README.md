@@ -5,6 +5,7 @@ An AI that plays and defeats flappy bird! It uses the NEAT(NeuroEvolution of Aug
 
 # Instructions
 Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
+If you wish to play a much easier version yourself to appreciate the AI, head on to flappybird_game.py and use your UP arrow key to start playing!
 
 
 # Run in Gitpod
